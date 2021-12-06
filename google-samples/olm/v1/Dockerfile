@@ -1,0 +1,1 @@
+From quay.io/operator-framework/olm@sha256:7df4e1f16bfd107acc76bc1e3a5910224b90b317aca697b6541c3e55c27bc2ee
